@@ -86,7 +86,7 @@ The following tables present detailed ablation studies and performance compariso
 | **XCSLBP** | **0.820** | **0.724** | 0.918 | 0.813 |
 
 ## 📝 Citation
-Anonymous while the article is in review process
+Anonymous while the article is in review process.
 If you use this code or the results in your research, please cite the original article:
 
 ```
