@@ -89,5 +89,6 @@ The following tables present detailed ablation studies and performance compariso
 Anonymous while the article is in review process
 If you use this code or the results in your research, please cite the original article:
 
+```
 > [Author Names]. "Évaluation d’une Stratégie d’Hybridation Primitives-Transformeur pour Quantifier la Sévérité de Pneumonies". 2026.
 ```
