@@ -33,6 +33,9 @@ pip install numpy scikit-image matplotlib PyWavelets opencv-python cupy-cuda11x
 ```
 
 ## 📊 Appendix: Supplementary Results
+| ![Original Image](https://github.com/user-attachments/assets/26ef6e67-9252-4a00-a745-6a444a68c5e5) | ![OLBP](https://github.com/user-attachments/assets/c9304d75-2d25-40e7-a666-8e8dd1f6b603) | ![GABOR](https://github.com/user-attachments/assets/1369c450-b49d-4c16-855d-08c2358c3dee) | ![HOG](https://github.com/user-attachments/assets/766e94ee-e393-45ff-b1d3-4e6065c9694a) | ![DWT](https://github.com/user-attachments/assets/a7a214f3-01f1-499c-9e7b-d94a26cebeab) |
+| :---: | :---: | :---: | :---: | :---: |
+| **Fig.1** Original | **Fig 2.** OLBP | **Fig 3.** Gabor T=0.05 F=0.45 | **Fig 4.** HOG | **Fig 4.** DWT haar |
 
 The following tables present detailed ablation studies and performance comparisons discussed in the article.
 
