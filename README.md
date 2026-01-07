@@ -90,8 +90,15 @@ The following tables present detailed ablation studies and performance compariso
 
 ## 📝 Citation
 Anonymous while the article is in review process.
-If you use this code or the results in your research, please cite the original article:
+If you use this code or the results in your research, please cite the following paper presented at the **IACD Workshop (EGC 2026)**:
 
-```
-[Author Names]. "Évaluation d’une Stratégie d’Hybridation Primitives-Transformeur pour Quantifier la Sévérité de Pneumonies". 2026.
+> **Adnan Mustafic, Fadi Dornaika, and Karim Hammoudi**. "Évaluation d’une Stratégie d’Hybridation Primitives-Transformeur pour Quantifier la Sévérité de Pneumonies". *Atelier IACD, Conférence Extraction et Gestion des Connaissances (EGC)*, 2026.
+
+```bibtex
+@inproceedings{Mustafic2026Evaluation,
+  title     = {Évaluation d’une Stratégie d’Hybridation Primitives-Transformeur pour Quantifier la Sévérité de Pneumonies},
+  author    = {Mustafic, Adnan and Dornaika, Fadi and Hammoudi, Karim},
+  booktitle = {Atelier IACD, Conférence Extraction et Gestion des Connaissances (EGC)},
+  year      = {2026}
+}
 ```
