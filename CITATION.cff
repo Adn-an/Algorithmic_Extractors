@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+authors:
+  - family-names: "Mustafic"
+    given-names: "Adnan"
+  - family-names: "Dornaika"
+    given-names: "Fadi"
+  - family-names: "Hammoudi"
+    given-names: "Karim"
+title: "Algorithmic_Extractors" # You can change this to your actual Repo Name
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Mustafic"
+    given-names: "Adnan"
+  - family-names: "Dornaika"
+    given-names: "Fadi"
+  - family-names: "Hammoudi"
+    given-names: "Karim"
+  title: "Évaluation d’une Stratégie d’Hybridation Primitives-Transformeur pour Quantifier la Sévérité de Pneumonies"
+  year: 2026
+  collection-title: "Atelier IACD, Conférence Extraction et Gestion des Connaissances (EGC)"
