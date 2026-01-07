@@ -7,7 +7,7 @@ authors:
     given-names: "Fadi"
   - family-names: "Hammoudi"
     given-names: "Karim"
-title: "Algorithmic_Extractors" # You can change this to your actual Repo Name
+title: "Algorithmic_Extractors"
 preferred-citation:
   type: conference-paper
   authors:
